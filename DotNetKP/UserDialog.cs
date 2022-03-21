@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using GraphPainterNs;
@@ -71,9 +72,10 @@ namespace DotNetKP
             try
             {
                 Random random = new Random((int)System.DateTime.Now.Ticks);
-                int[] degrees = textBox2.Text.Replace(",", "").Split(' ').Select(int.Parse).ToArray();
+                string textFromTextBox = textBox2.Text;
+                int[] degrees = Regex.Split(textFromTextBox, "\\W+").Select(int.Parse).ToArray();
 
-                if(!alreadyDrawed)
+                if (!alreadyDrawed)
                     graph = new Graph(degrees, checkBox1.Checked);
 
                 clearScreen(new object(),new EventArgs());
