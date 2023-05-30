@@ -6,3 +6,9 @@ Instruction:
 2. Press the button "Нарисовать"
 3. Change the direction of the arrows by clicking on them 
 4. In the text box on the right side of windows you will be able to see the graph cycles
+
+
+### Демонстрация работы программы:
+![image](https://github.com/tinkivink1/DotNetKP/assets/92641773/ab732a9b-8b85-465b-a031-b99a3feef4d0)
+
+![image](https://github.com/tinkivink1/DotNetKP/assets/92641773/1d05b56e-a878-4366-8c5c-f1ccf0756050)
