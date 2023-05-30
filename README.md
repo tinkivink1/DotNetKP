@@ -9,6 +9,6 @@ Instruction:
 
 
 ### Демонстрация работы программы:
-![image](https://github.com/tinkivink1/DotNetKP/assets/92641773/ab732a9b-8b85-465b-a031-b99a3feef4d0)
+![image](https://github.com/tinkivink1/graph-builder-dotnet/assets/92641773/ab732a9b-8b85-465b-a031-b99a3feef4d0)
 
-![image](https://github.com/tinkivink1/DotNetKP/assets/92641773/1d05b56e-a878-4366-8c5c-f1ccf0756050)
+![image](https://github.com/tinkivink1/graph-builder-dotnet/assets/92641773/1d05b56e-a878-4366-8c5c-f1ccf0756050)
