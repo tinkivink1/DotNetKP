@@ -1,4 +1,4 @@
-# DotNetKP
+# Grapth Builder
 A program that constructs a directed graph from a sequence of degrees of vertices and finds cycles in this graph using dfs algorithm
 
 Instruction: 
@@ -9,6 +9,6 @@ Instruction:
 
 
 ### Демонстрация работы программы:
-![image](https://github.com/tinkivink1/graph-builder-dotnet/assets/92641773/ab732a9b-8b85-465b-a031-b99a3feef4d0)
+![image](https://github.com/tinkivink1/graph-builder-dotnet/assets/92641773/eed90b2c-9e9e-4c33-907c-1cb688ebe10e)
 
-![image](https://github.com/tinkivink1/graph-builder-dotnet/assets/92641773/1d05b56e-a878-4366-8c5c-f1ccf0756050)
+![image](https://github.com/tinkivink1/graph-builder-dotnet/assets/92641773/453c79ae-f989-4df0-b8d1-48f66c74b39a)
